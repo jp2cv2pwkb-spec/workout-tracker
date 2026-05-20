@@ -7,7 +7,7 @@ import { Flame, Trophy, TrendingUp, Check, Users, User, ChevronLeft, ChevronRigh
 
 const USERS = [
   { id: 'will', name: 'Will' },
-  { id: 'gf', name: 'Steph' }, // Change this name to your girlfriend's name
+  { id: 'gf', name: 'Jenna' }, // Change this name to your girlfriend's name
 ];
 
 export default function Home() {
